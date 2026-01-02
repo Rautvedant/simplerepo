@@ -17,7 +17,7 @@ import schedule
 import time 
 
 # --- GLOBAL SETTINGS ---
-NVIDIA_API_KEY = "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" 
+NVIDIA_API_KEY = "............" 
 NVIDIA_BASE_URL = "https://openrouter.ai/api/v1/chat/completions"
 NVIDIA_MODEL = "nvidia/nemotron-nano-12b-v2-vl:free"
 
